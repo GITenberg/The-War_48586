@@ -1,10 +1,16 @@
 _repo: The-War_48586
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48586-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, James H.
     gutenberg_agent_id: '44865'
     url: http://www.gutenberg.org/2009/agents/44865
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48586#The-War
 gutenberg_issued: '2015-03-26'
 gutenberg_type: Text
 identifiers:
